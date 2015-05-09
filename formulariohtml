@@ -11,6 +11,13 @@
 		<link href="movil.css" rel="stylesheet" media="all and (min-width: 0px) and (max-width: 480px)"/>
 		<link href="tablet.css" rel="stylesheet" media="all and (min-width: 481px) and (max-width: 800px)"/>
 		<link href="escritorio.css" rel="stylesheet" media="all and (min-width: 801px)"/>
-		</head>
-		</html>
+</head>
+	<body>
+	<section>
+		<form name="miformulario" id="miformulario" method="get">
+		<p class=<"campo">nombre:<imput type="text" name="minombre" id="minombre"></p>
+		</form>
+	</section>
+    </body>
+</html>
     
